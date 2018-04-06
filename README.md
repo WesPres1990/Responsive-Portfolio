@@ -12,7 +12,7 @@ Additionally, the site provides links to my social media profiles on LinkedIn, G
 
 Languages - HTML5, CSS4
 
-Text Editor - VS Studio
+Text Editor - Visual Studio Code
 
 
 ## Preview
